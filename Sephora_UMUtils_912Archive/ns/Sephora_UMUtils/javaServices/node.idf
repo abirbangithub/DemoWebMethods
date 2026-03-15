@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">Sephora_UMUtils.javaServices</value>
+  <value name="is_public">false</value>
+  <value name="shared">c3RhdGljIFN0cmluZyBhcnJUW109eyIifTsKc3RhdGljIFN0cmluZ0J1aWxkZXIgc2JUPW5ldyBT
+dHJpbmdCdWlsZGVyKCIiKTsKCnN0YXRpYyBTdHJpbmcgYXJyUVtdPXsiIn07CnN0YXRpYyBTdHJp
+bmdCdWlsZGVyIHNiUT1uZXcgU3RyaW5nQnVpbGRlcigiIik7CgpwdWJsaWMgc3RhdGljIFN0cmlu
+Z1tdIHNlYXJjaFF1ZXVlcyhuQ29udGFpbmVyIGNvbnRhaW5lcikgCnsKCUVudW1lcmF0aW9uIGNo
+aWxkcmVuID0gY29udGFpbmVyLmdldE5vZGVzKCk7IAoJLy9TdHJpbmcgYXJyW109eyIifTsKCS8v
+U3RyaW5nQnVpbGRlciBzYj1uZXcgU3RyaW5nQnVpbGRlcigiIik7Cgl3aGlsZSAoY2hpbGRyZW4u
+aGFzTW9yZUVsZW1lbnRzKCkpIHsgCgkJbk5vZGUgY2hpbGQgPSAobk5vZGUpY2hpbGRyZW4ubmV4
+dEVsZW1lbnQoKTsgCgkJaWYgKGNoaWxkIGluc3RhbmNlb2YgbkNvbnRhaW5lcikgeyAKCQkJCXNl
+YXJjaFF1ZXVlcygobkNvbnRhaW5lciljaGlsZCk7IAoJCX0gZWxzZSBpZiAoY2hpbGQgaW5zdGFu
+Y2VvZiBuTGVhZk5vZGUpIHsgCgkJCQluTGVhZk5vZGUgbGVhZiA9IChuTGVhZk5vZGUpY2hpbGQ7
+IAoJCQkJaWYgKGxlYWYuaXNRdWV1ZSgpKSB7IAoJCQkJCQlzYlEuYXBwZW5kKGxlYWYuZ2V0TmFt
+ZSgpKTsKCQkJCQkJc2JRLmFwcGVuZCgiXG4iKTsKCQkJCX0gCgkJCQl9IAoJCX0gCglhcnJRPXNi
+US50b1N0cmluZygpLnNwbGl0KCJcbiIpOwoJcmV0dXJuIGFyclE7Cn0gCgoKCgpwdWJsaWMgc3Rh
+dGljIFN0cmluZ1tdIHNlYXJjaFRvcGljcyhuQ29udGFpbmVyIGNvbnRhaW5lcikgCnsKCUVudW1l
+cmF0aW9uIGNoaWxkcmVuID0gY29udGFpbmVyLmdldE5vZGVzKCk7IAoJLy9TdHJpbmcgYXJyW109
+eyIifTsKCS8vU3RyaW5nQnVpbGRlciBzYj1uZXcgU3RyaW5nQnVpbGRlcigiIik7Cgl3aGlsZSAo
+Y2hpbGRyZW4uaGFzTW9yZUVsZW1lbnRzKCkpIHsgCgkJbk5vZGUgY2hpbGQgPSAobk5vZGUpY2hp
+bGRyZW4ubmV4dEVsZW1lbnQoKTsgCgkJaWYgKGNoaWxkIGluc3RhbmNlb2YgbkNvbnRhaW5lcikg
+eyAKCQkJCXNlYXJjaFRvcGljcygobkNvbnRhaW5lciljaGlsZCk7IAoJCX0gZWxzZSBpZiAoY2hp
+bGQgaW5zdGFuY2VvZiBuTGVhZk5vZGUpIHsgCgkJCQluTGVhZk5vZGUgbGVhZiA9IChuTGVhZk5v
+ZGUpY2hpbGQ7IAoJCQkJaWYgKGxlYWYuaXNDaGFubmVsKCkpIHsgCgkJCQkJCXNiVC5hcHBlbmQo
+bGVhZi5nZXROYW1lKCkpOwoJCQkJCQlzYlQuYXBwZW5kKCJcbiIpOwoJCQkJfSAKCQkJCX0gCgkJ
+fSAKCWFyclQ9c2JULnRvU3RyaW5nKCkuc3BsaXQoIlxuIik7CglyZXR1cm4gYXJyVDsKfSAKCiA=
+</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.Collections</value>
+    <value>java.util.Enumeration</value>
+    <value>java.util.List</value>
+    <value>java.io.File</value>
+    <value>java.io.FileInputStream</value>
+    <value>java.io.InputStream</value>
+    <value>java.util.Arrays</value>
+    <value>org.w3c.dom.Document</value>
+    <value>org.xml.sax.InputSource</value>
+    <value>com.pcbsys.nirvana.client.*</value>
+    <value>com.pcbsys.nirvana.nAdminAPI.*</value>
+    <value>com.pcbsys.nirvana.nAdmin.*</value>
+    <value>com.sun.org.apache.xerces.internal.parsers.DOMParser</value>
+    <value>com.pcbsys.nirvana.nAdminAPI.nRealmNode</value>
+    <value>com.pcbsys.nirvana.client.nChannel</value>
+    <value>com.pcbsys.nirvana.nAdminAPI.nLeafNode</value>
+  </array>
+</Values>
